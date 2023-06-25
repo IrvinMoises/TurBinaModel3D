@@ -1,0 +1,19 @@
+#footer{
+    background: linear-gradient(0deg,#1c3643,#273b47 25%,#1e5372);
+  }
+  
+  body{
+    background-color: rgb(16, 16, 48);
+    color: #9093a6;
+  }
+  .card{
+    background-color: rgb(16, 16, 48);
+  }
+  
+  #footer a{
+    color: #FFFFFF;
+  }
+  #circlechart{
+    background-color: rgb(16, 16, 48);
+    height: 600px;
+  }
